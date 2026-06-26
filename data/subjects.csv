@@ -1,1 +1,6 @@
-
+subject_id,subject_name,credits
+SUB101,Python Programming,4
+SUB102,Database Management Systems,4
+SUB103,Data Structures,4
+SUB104,Statistics,3
+SUB105,Operating Systems,4
