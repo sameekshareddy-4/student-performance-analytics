@@ -55,12 +55,6 @@ Power BI Dashboard
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](docs/dashboard.pdf)
-
----
-
 ## Project Structure
 
 student-performance-analytics
