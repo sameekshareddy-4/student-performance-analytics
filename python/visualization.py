@@ -94,3 +94,38 @@ plt.title("Top 10 Students")
 plt.savefig("docs/top_students.png")
 
 plt.show()
+
+student_avg = df.groupby("student_name")["marks"].mean()
+
+plt.figure(figsize=(14,5))
+
+student_avg.plot(kind="line")
+
+plt.title("Average Marks of Students")
+
+plt.xlabel("Students")
+plt.ylabel("Average Marks")
+
+plt.xticks([])
+
+plt.tight_layout()
+
+plt.savefig("docs/student_average.png")
+
+plt.show()
+
+branch_count = df["branch"].value_counts()
+
+plt.figure(figsize=(6,5))
+
+branch_count.plot(kind="bar")
+
+plt.title("Students in Each Branch")
+plt.xlabel("Branch")
+plt.ylabel("Students")
+
+plt.tight_layout()
+
+plt.savefig("docs/student_branch_count.png")
+
+plt.show()
