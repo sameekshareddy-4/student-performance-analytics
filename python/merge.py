@@ -1,6 +1,7 @@
 import os
 
 print(os.getcwd())
+
 import pandas as pd
 import mysql.connector
 
@@ -34,22 +35,33 @@ final_df = pd.merge(
 print(final_df.head())
 
 result = final_df[[
+    "student_id",
     "student_name",
+    "gender",
+    "age",
     "branch",
+    "semester",
+    "section",
+    "admission_year",
+    "subject_id",
     "subject_name",
+    "credits",
     "marks"
 ]]
 
 print(result.head(10))
 
 print(result.groupby("branch")["marks"].mean())
+
 print(result.groupby("subject_name")["marks"].mean())
+
 top_students = result.sort_values(
     "marks",
     ascending=False
 )
 
 print(top_students.head(10))
+
 result.to_csv(
     r"C:\Users\samee\OneDrive\Desktop\Internships\student-performance-analytics\data\final_dataset.csv",
     index=False

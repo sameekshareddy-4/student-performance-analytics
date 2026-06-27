@@ -1,251 +1,251 @@
-student_name,branch,subject_name,marks
-Aarav Sharma,CSE,Python Programming,38
-Aarav Sharma,CSE,Database Management Systems,36
-Aarav Sharma,CSE,Data Structures,44
-Aarav Sharma,CSE,Statistics,58
-Aarav Sharma,CSE,Operating Systems,54
-Priya Reddy,AIDS,Python Programming,54
-Priya Reddy,AIDS,Database Management Systems,81
-Priya Reddy,AIDS,Data Structures,88
-Priya Reddy,AIDS,Statistics,65
-Priya Reddy,AIDS,Operating Systems,39
-Rohan Gupta,AIML,Python Programming,37
-Rohan Gupta,AIML,Database Management Systems,86
-Rohan Gupta,AIML,Data Structures,95
-Rohan Gupta,AIML,Statistics,84
-Rohan Gupta,AIML,Operating Systems,71
-Ananya Verma,ECE,Python Programming,75
-Ananya Verma,ECE,Database Management Systems,55
-Ananya Verma,ECE,Data Structures,49
-Ananya Verma,ECE,Statistics,60
-Ananya Verma,ECE,Operating Systems,54
-Vikram Rao,IT,Python Programming,83
-Vikram Rao,IT,Database Management Systems,71
-Vikram Rao,IT,Data Structures,61
-Vikram Rao,IT,Statistics,86
-Vikram Rao,IT,Operating Systems,72
-Neha Singh,CSE,Python Programming,77
-Neha Singh,CSE,Database Management Systems,56
-Neha Singh,CSE,Data Structures,67
-Neha Singh,CSE,Statistics,94
-Neha Singh,CSE,Operating Systems,63
-Arjun Patel,AIDS,Python Programming,79
-Arjun Patel,AIDS,Database Management Systems,73
-Arjun Patel,AIDS,Data Structures,35
-Arjun Patel,AIDS,Statistics,40
-Arjun Patel,AIDS,Operating Systems,38
-Sneha Nair,AIML,Python Programming,85
-Sneha Nair,AIML,Database Management Systems,70
-Sneha Nair,AIML,Data Structures,94
-Sneha Nair,AIML,Statistics,74
-Sneha Nair,AIML,Operating Systems,44
-Karan Mehta,ECE,Python Programming,88
-Karan Mehta,ECE,Database Management Systems,80
-Karan Mehta,ECE,Data Structures,77
-Karan Mehta,ECE,Statistics,85
-Karan Mehta,ECE,Operating Systems,56
-Divya Iyer,IT,Python Programming,39
-Divya Iyer,IT,Database Management Systems,91
-Divya Iyer,IT,Data Structures,95
-Divya Iyer,IT,Statistics,71
-Divya Iyer,IT,Operating Systems,81
-Rahul Kumar,CSE,Python Programming,88
-Rahul Kumar,CSE,Database Management Systems,48
-Rahul Kumar,CSE,Data Structures,85
-Rahul Kumar,CSE,Statistics,50
-Rahul Kumar,CSE,Operating Systems,73
-Isha Kapoor,AIDS,Python Programming,90
-Isha Kapoor,AIDS,Database Management Systems,59
-Isha Kapoor,AIDS,Data Structures,90
-Isha Kapoor,AIDS,Statistics,46
-Isha Kapoor,AIDS,Operating Systems,50
-Aditya Jain,AIML,Python Programming,87
-Aditya Jain,AIML,Database Management Systems,80
-Aditya Jain,AIML,Data Structures,95
-Aditya Jain,AIML,Statistics,41
-Aditya Jain,AIML,Operating Systems,92
-Pooja Das,ECE,Python Programming,36
-Pooja Das,ECE,Database Management Systems,97
-Pooja Das,ECE,Data Structures,44
-Pooja Das,ECE,Statistics,50
-Pooja Das,ECE,Operating Systems,54
-Nikhil Reddy,IT,Python Programming,44
-Nikhil Reddy,IT,Database Management Systems,68
-Nikhil Reddy,IT,Data Structures,69
-Nikhil Reddy,IT,Statistics,73
-Nikhil Reddy,IT,Operating Systems,53
-Meera Joshi,CSE,Python Programming,79
-Meera Joshi,CSE,Database Management Systems,44
-Meera Joshi,CSE,Data Structures,89
-Meera Joshi,CSE,Statistics,76
-Meera Joshi,CSE,Operating Systems,83
-Harsh Agarwal,AIDS,Python Programming,84
-Harsh Agarwal,AIDS,Database Management Systems,75
-Harsh Agarwal,AIDS,Data Structures,37
-Harsh Agarwal,AIDS,Statistics,90
-Harsh Agarwal,AIDS,Operating Systems,35
-Kavya Menon,AIML,Python Programming,44
-Kavya Menon,AIML,Database Management Systems,59
-Kavya Menon,AIML,Data Structures,60
-Kavya Menon,AIML,Statistics,47
-Kavya Menon,AIML,Operating Systems,39
-Yash Malhotra,ECE,Python Programming,58
-Yash Malhotra,ECE,Database Management Systems,37
-Yash Malhotra,ECE,Data Structures,60
-Yash Malhotra,ECE,Statistics,79
-Yash Malhotra,ECE,Operating Systems,76
-Ritika Shah,IT,Python Programming,54
-Ritika Shah,IT,Database Management Systems,85
-Ritika Shah,IT,Data Structures,96
-Ritika Shah,IT,Statistics,51
-Ritika Shah,IT,Operating Systems,76
-Akash Verma,CSE,Python Programming,40
-Akash Verma,CSE,Database Management Systems,56
-Akash Verma,CSE,Data Structures,90
-Akash Verma,CSE,Statistics,96
-Akash Verma,CSE,Operating Systems,59
-Shreya Rao,AIDS,Python Programming,74
-Shreya Rao,AIDS,Database Management Systems,94
-Shreya Rao,AIDS,Data Structures,75
-Shreya Rao,AIDS,Statistics,43
-Shreya Rao,AIDS,Operating Systems,39
-Manav Bansal,AIML,Python Programming,60
-Manav Bansal,AIML,Database Management Systems,49
-Manav Bansal,AIML,Data Structures,79
-Manav Bansal,AIML,Statistics,66
-Manav Bansal,AIML,Operating Systems,79
-Aditi Sharma,ECE,Python Programming,83
-Aditi Sharma,ECE,Database Management Systems,81
-Aditi Sharma,ECE,Data Structures,49
-Aditi Sharma,ECE,Statistics,42
-Aditi Sharma,ECE,Operating Systems,53
-Rishi Gupta,IT,Python Programming,56
-Rishi Gupta,IT,Database Management Systems,62
-Rishi Gupta,IT,Data Structures,94
-Rishi Gupta,IT,Statistics,97
-Rishi Gupta,IT,Operating Systems,52
-Sanya Kapoor,CSE,Python Programming,60
-Sanya Kapoor,CSE,Database Management Systems,56
-Sanya Kapoor,CSE,Data Structures,43
-Sanya Kapoor,CSE,Statistics,87
-Sanya Kapoor,CSE,Operating Systems,48
-Dev Patel,AIDS,Python Programming,55
-Dev Patel,AIDS,Database Management Systems,57
-Dev Patel,AIDS,Data Structures,56
-Dev Patel,AIDS,Statistics,85
-Dev Patel,AIDS,Operating Systems,37
-Nandini Iyer,AIML,Python Programming,47
-Nandini Iyer,AIML,Database Management Systems,60
-Nandini Iyer,AIML,Data Structures,90
-Nandini Iyer,AIML,Statistics,88
-Nandini Iyer,AIML,Operating Systems,50
-Krishna Rao,ECE,Python Programming,60
-Krishna Rao,ECE,Database Management Systems,77
-Krishna Rao,ECE,Data Structures,93
-Krishna Rao,ECE,Statistics,69
-Krishna Rao,ECE,Operating Systems,79
-Anjali Nair,IT,Python Programming,54
-Anjali Nair,IT,Database Management Systems,40
-Anjali Nair,IT,Data Structures,97
-Anjali Nair,IT,Statistics,63
-Anjali Nair,IT,Operating Systems,48
-Varun Singh,CSE,Python Programming,71
-Varun Singh,CSE,Database Management Systems,71
-Varun Singh,CSE,Data Structures,46
-Varun Singh,CSE,Statistics,81
-Varun Singh,CSE,Operating Systems,79
-Riya Gupta,AIDS,Python Programming,81
-Riya Gupta,AIDS,Database Management Systems,84
-Riya Gupta,AIDS,Data Structures,80
-Riya Gupta,AIDS,Statistics,35
-Riya Gupta,AIDS,Operating Systems,98
-Abhishek Jain,AIML,Python Programming,58
-Abhishek Jain,AIML,Database Management Systems,38
-Abhishek Jain,AIML,Data Structures,53
-Abhishek Jain,AIML,Statistics,82
-Abhishek Jain,AIML,Operating Systems,69
-Simran Kaur,ECE,Python Programming,85
-Simran Kaur,ECE,Database Management Systems,72
-Simran Kaur,ECE,Data Structures,80
-Simran Kaur,ECE,Statistics,75
-Simran Kaur,ECE,Operating Systems,84
-Aman Yadav,IT,Python Programming,53
-Aman Yadav,IT,Database Management Systems,92
-Aman Yadav,IT,Data Structures,61
-Aman Yadav,IT,Statistics,76
-Aman Yadav,IT,Operating Systems,74
-Anusha Reddy,CSE,Python Programming,53
-Anusha Reddy,CSE,Database Management Systems,35
-Anusha Reddy,CSE,Data Structures,38
-Anusha Reddy,CSE,Statistics,38
-Anusha Reddy,CSE,Operating Systems,53
-Rohit Sharma,AIDS,Python Programming,91
-Rohit Sharma,AIDS,Database Management Systems,84
-Rohit Sharma,AIDS,Data Structures,86
-Rohit Sharma,AIDS,Statistics,98
-Rohit Sharma,AIDS,Operating Systems,70
-Keerthana S,AIML,Python Programming,36
-Keerthana S,AIML,Database Management Systems,68
-Keerthana S,AIML,Data Structures,67
-Keerthana S,AIML,Statistics,89
-Keerthana S,AIML,Operating Systems,91
-Siddharth Rao,ECE,Python Programming,85
-Siddharth Rao,ECE,Database Management Systems,54
-Siddharth Rao,ECE,Data Structures,92
-Siddharth Rao,ECE,Statistics,51
-Siddharth Rao,ECE,Operating Systems,77
-Pallavi Singh,IT,Python Programming,43
-Pallavi Singh,IT,Database Management Systems,53
-Pallavi Singh,IT,Data Structures,49
-Pallavi Singh,IT,Statistics,64
-Pallavi Singh,IT,Operating Systems,40
-Gaurav Mehta,CSE,Python Programming,70
-Gaurav Mehta,CSE,Database Management Systems,78
-Gaurav Mehta,CSE,Data Structures,36
-Gaurav Mehta,CSE,Statistics,55
-Gaurav Mehta,CSE,Operating Systems,84
-Harini N,AIDS,Python Programming,89
-Harini N,AIDS,Database Management Systems,36
-Harini N,AIDS,Data Structures,48
-Harini N,AIDS,Statistics,78
-Harini N,AIDS,Operating Systems,38
-Tarun Kumar,AIML,Python Programming,53
-Tarun Kumar,AIML,Database Management Systems,45
-Tarun Kumar,AIML,Data Structures,74
-Tarun Kumar,AIML,Statistics,72
-Tarun Kumar,AIML,Operating Systems,68
-Lakshmi Devi,ECE,Python Programming,92
-Lakshmi Devi,ECE,Database Management Systems,59
-Lakshmi Devi,ECE,Data Structures,35
-Lakshmi Devi,ECE,Statistics,89
-Lakshmi Devi,ECE,Operating Systems,89
-Sachin Patel,IT,Python Programming,63
-Sachin Patel,IT,Database Management Systems,86
-Sachin Patel,IT,Data Structures,35
-Sachin Patel,IT,Statistics,79
-Sachin Patel,IT,Operating Systems,59
-Vaishnavi R,CSE,Python Programming,93
-Vaishnavi R,CSE,Database Management Systems,43
-Vaishnavi R,CSE,Data Structures,50
-Vaishnavi R,CSE,Statistics,70
-Vaishnavi R,CSE,Operating Systems,94
-Naveen Reddy,AIDS,Python Programming,50
-Naveen Reddy,AIDS,Database Management Systems,41
-Naveen Reddy,AIDS,Data Structures,84
-Naveen Reddy,AIDS,Statistics,67
-Naveen Reddy,AIDS,Operating Systems,96
-Deepika S,AIML,Python Programming,72
-Deepika S,AIML,Database Management Systems,87
-Deepika S,AIML,Data Structures,64
-Deepika S,AIML,Statistics,98
-Deepika S,AIML,Operating Systems,41
-Pranav Gupta,ECE,Python Programming,94
-Pranav Gupta,ECE,Database Management Systems,93
-Pranav Gupta,ECE,Data Structures,86
-Pranav Gupta,ECE,Statistics,69
-Pranav Gupta,ECE,Operating Systems,89
-Aishwarya Rao,IT,Python Programming,41
-Aishwarya Rao,IT,Database Management Systems,68
-Aishwarya Rao,IT,Data Structures,65
-Aishwarya Rao,IT,Statistics,95
-Aishwarya Rao,IT,Operating Systems,89
+student_id,student_name,gender,age,branch,semester,section,admission_year,subject_id,subject_name,credits,marks
+1001,Aarav Sharma,Male,20,CSE,4,A,2024,SUB101,Python Programming,4,38
+1001,Aarav Sharma,Male,20,CSE,4,A,2024,SUB102,Database Management Systems,4,36
+1001,Aarav Sharma,Male,20,CSE,4,A,2024,SUB103,Data Structures,4,44
+1001,Aarav Sharma,Male,20,CSE,4,A,2024,SUB104,Statistics,3,58
+1001,Aarav Sharma,Male,20,CSE,4,A,2024,SUB105,Operating Systems,4,54
+1002,Priya Reddy,Female,20,AIDS,4,A,2024,SUB101,Python Programming,4,54
+1002,Priya Reddy,Female,20,AIDS,4,A,2024,SUB102,Database Management Systems,4,81
+1002,Priya Reddy,Female,20,AIDS,4,A,2024,SUB103,Data Structures,4,88
+1002,Priya Reddy,Female,20,AIDS,4,A,2024,SUB104,Statistics,3,65
+1002,Priya Reddy,Female,20,AIDS,4,A,2024,SUB105,Operating Systems,4,39
+1003,Rohan Gupta,Male,21,AIML,4,B,2024,SUB101,Python Programming,4,37
+1003,Rohan Gupta,Male,21,AIML,4,B,2024,SUB102,Database Management Systems,4,86
+1003,Rohan Gupta,Male,21,AIML,4,B,2024,SUB103,Data Structures,4,95
+1003,Rohan Gupta,Male,21,AIML,4,B,2024,SUB104,Statistics,3,84
+1003,Rohan Gupta,Male,21,AIML,4,B,2024,SUB105,Operating Systems,4,71
+1004,Ananya Verma,Female,20,ECE,4,A,2024,SUB101,Python Programming,4,75
+1004,Ananya Verma,Female,20,ECE,4,A,2024,SUB102,Database Management Systems,4,55
+1004,Ananya Verma,Female,20,ECE,4,A,2024,SUB103,Data Structures,4,49
+1004,Ananya Verma,Female,20,ECE,4,A,2024,SUB104,Statistics,3,60
+1004,Ananya Verma,Female,20,ECE,4,A,2024,SUB105,Operating Systems,4,54
+1005,Vikram Rao,Male,20,IT,4,B,2024,SUB101,Python Programming,4,83
+1005,Vikram Rao,Male,20,IT,4,B,2024,SUB102,Database Management Systems,4,71
+1005,Vikram Rao,Male,20,IT,4,B,2024,SUB103,Data Structures,4,61
+1005,Vikram Rao,Male,20,IT,4,B,2024,SUB104,Statistics,3,86
+1005,Vikram Rao,Male,20,IT,4,B,2024,SUB105,Operating Systems,4,72
+1006,Neha Singh,Female,19,CSE,4,A,2024,SUB101,Python Programming,4,77
+1006,Neha Singh,Female,19,CSE,4,A,2024,SUB102,Database Management Systems,4,56
+1006,Neha Singh,Female,19,CSE,4,A,2024,SUB103,Data Structures,4,67
+1006,Neha Singh,Female,19,CSE,4,A,2024,SUB104,Statistics,3,94
+1006,Neha Singh,Female,19,CSE,4,A,2024,SUB105,Operating Systems,4,63
+1007,Arjun Patel,Male,20,AIDS,4,B,2024,SUB101,Python Programming,4,79
+1007,Arjun Patel,Male,20,AIDS,4,B,2024,SUB102,Database Management Systems,4,73
+1007,Arjun Patel,Male,20,AIDS,4,B,2024,SUB103,Data Structures,4,35
+1007,Arjun Patel,Male,20,AIDS,4,B,2024,SUB104,Statistics,3,40
+1007,Arjun Patel,Male,20,AIDS,4,B,2024,SUB105,Operating Systems,4,38
+1008,Sneha Nair,Female,20,AIML,4,A,2024,SUB101,Python Programming,4,85
+1008,Sneha Nair,Female,20,AIML,4,A,2024,SUB102,Database Management Systems,4,70
+1008,Sneha Nair,Female,20,AIML,4,A,2024,SUB103,Data Structures,4,94
+1008,Sneha Nair,Female,20,AIML,4,A,2024,SUB104,Statistics,3,74
+1008,Sneha Nair,Female,20,AIML,4,A,2024,SUB105,Operating Systems,4,44
+1009,Karan Mehta,Male,21,ECE,4,B,2024,SUB101,Python Programming,4,88
+1009,Karan Mehta,Male,21,ECE,4,B,2024,SUB102,Database Management Systems,4,80
+1009,Karan Mehta,Male,21,ECE,4,B,2024,SUB103,Data Structures,4,77
+1009,Karan Mehta,Male,21,ECE,4,B,2024,SUB104,Statistics,3,85
+1009,Karan Mehta,Male,21,ECE,4,B,2024,SUB105,Operating Systems,4,56
+1010,Divya Iyer,Female,20,IT,4,A,2024,SUB101,Python Programming,4,39
+1010,Divya Iyer,Female,20,IT,4,A,2024,SUB102,Database Management Systems,4,91
+1010,Divya Iyer,Female,20,IT,4,A,2024,SUB103,Data Structures,4,95
+1010,Divya Iyer,Female,20,IT,4,A,2024,SUB104,Statistics,3,71
+1010,Divya Iyer,Female,20,IT,4,A,2024,SUB105,Operating Systems,4,81
+1011,Rahul Kumar,Male,20,CSE,4,B,2024,SUB101,Python Programming,4,88
+1011,Rahul Kumar,Male,20,CSE,4,B,2024,SUB102,Database Management Systems,4,48
+1011,Rahul Kumar,Male,20,CSE,4,B,2024,SUB103,Data Structures,4,85
+1011,Rahul Kumar,Male,20,CSE,4,B,2024,SUB104,Statistics,3,50
+1011,Rahul Kumar,Male,20,CSE,4,B,2024,SUB105,Operating Systems,4,73
+1012,Isha Kapoor,Female,19,AIDS,4,A,2024,SUB101,Python Programming,4,90
+1012,Isha Kapoor,Female,19,AIDS,4,A,2024,SUB102,Database Management Systems,4,59
+1012,Isha Kapoor,Female,19,AIDS,4,A,2024,SUB103,Data Structures,4,90
+1012,Isha Kapoor,Female,19,AIDS,4,A,2024,SUB104,Statistics,3,46
+1012,Isha Kapoor,Female,19,AIDS,4,A,2024,SUB105,Operating Systems,4,50
+1013,Aditya Jain,Male,20,AIML,4,B,2024,SUB101,Python Programming,4,87
+1013,Aditya Jain,Male,20,AIML,4,B,2024,SUB102,Database Management Systems,4,80
+1013,Aditya Jain,Male,20,AIML,4,B,2024,SUB103,Data Structures,4,95
+1013,Aditya Jain,Male,20,AIML,4,B,2024,SUB104,Statistics,3,41
+1013,Aditya Jain,Male,20,AIML,4,B,2024,SUB105,Operating Systems,4,92
+1014,Pooja Das,Female,20,ECE,4,A,2024,SUB101,Python Programming,4,36
+1014,Pooja Das,Female,20,ECE,4,A,2024,SUB102,Database Management Systems,4,97
+1014,Pooja Das,Female,20,ECE,4,A,2024,SUB103,Data Structures,4,44
+1014,Pooja Das,Female,20,ECE,4,A,2024,SUB104,Statistics,3,50
+1014,Pooja Das,Female,20,ECE,4,A,2024,SUB105,Operating Systems,4,54
+1015,Nikhil Reddy,Male,21,IT,4,B,2024,SUB101,Python Programming,4,44
+1015,Nikhil Reddy,Male,21,IT,4,B,2024,SUB102,Database Management Systems,4,68
+1015,Nikhil Reddy,Male,21,IT,4,B,2024,SUB103,Data Structures,4,69
+1015,Nikhil Reddy,Male,21,IT,4,B,2024,SUB104,Statistics,3,73
+1015,Nikhil Reddy,Male,21,IT,4,B,2024,SUB105,Operating Systems,4,53
+1016,Meera Joshi,Female,20,CSE,4,A,2024,SUB101,Python Programming,4,79
+1016,Meera Joshi,Female,20,CSE,4,A,2024,SUB102,Database Management Systems,4,44
+1016,Meera Joshi,Female,20,CSE,4,A,2024,SUB103,Data Structures,4,89
+1016,Meera Joshi,Female,20,CSE,4,A,2024,SUB104,Statistics,3,76
+1016,Meera Joshi,Female,20,CSE,4,A,2024,SUB105,Operating Systems,4,83
+1017,Harsh Agarwal,Male,20,AIDS,4,B,2024,SUB101,Python Programming,4,84
+1017,Harsh Agarwal,Male,20,AIDS,4,B,2024,SUB102,Database Management Systems,4,75
+1017,Harsh Agarwal,Male,20,AIDS,4,B,2024,SUB103,Data Structures,4,37
+1017,Harsh Agarwal,Male,20,AIDS,4,B,2024,SUB104,Statistics,3,90
+1017,Harsh Agarwal,Male,20,AIDS,4,B,2024,SUB105,Operating Systems,4,35
+1018,Kavya Menon,Female,19,AIML,4,A,2024,SUB101,Python Programming,4,44
+1018,Kavya Menon,Female,19,AIML,4,A,2024,SUB102,Database Management Systems,4,59
+1018,Kavya Menon,Female,19,AIML,4,A,2024,SUB103,Data Structures,4,60
+1018,Kavya Menon,Female,19,AIML,4,A,2024,SUB104,Statistics,3,47
+1018,Kavya Menon,Female,19,AIML,4,A,2024,SUB105,Operating Systems,4,39
+1019,Yash Malhotra,Male,20,ECE,4,B,2024,SUB101,Python Programming,4,58
+1019,Yash Malhotra,Male,20,ECE,4,B,2024,SUB102,Database Management Systems,4,37
+1019,Yash Malhotra,Male,20,ECE,4,B,2024,SUB103,Data Structures,4,60
+1019,Yash Malhotra,Male,20,ECE,4,B,2024,SUB104,Statistics,3,79
+1019,Yash Malhotra,Male,20,ECE,4,B,2024,SUB105,Operating Systems,4,76
+1020,Ritika Shah,Female,20,IT,4,A,2024,SUB101,Python Programming,4,54
+1020,Ritika Shah,Female,20,IT,4,A,2024,SUB102,Database Management Systems,4,85
+1020,Ritika Shah,Female,20,IT,4,A,2024,SUB103,Data Structures,4,96
+1020,Ritika Shah,Female,20,IT,4,A,2024,SUB104,Statistics,3,51
+1020,Ritika Shah,Female,20,IT,4,A,2024,SUB105,Operating Systems,4,76
+1021,Akash Verma,Male,21,CSE,4,B,2024,SUB101,Python Programming,4,40
+1021,Akash Verma,Male,21,CSE,4,B,2024,SUB102,Database Management Systems,4,56
+1021,Akash Verma,Male,21,CSE,4,B,2024,SUB103,Data Structures,4,90
+1021,Akash Verma,Male,21,CSE,4,B,2024,SUB104,Statistics,3,96
+1021,Akash Verma,Male,21,CSE,4,B,2024,SUB105,Operating Systems,4,59
+1022,Shreya Rao,Female,20,AIDS,4,A,2024,SUB101,Python Programming,4,74
+1022,Shreya Rao,Female,20,AIDS,4,A,2024,SUB102,Database Management Systems,4,94
+1022,Shreya Rao,Female,20,AIDS,4,A,2024,SUB103,Data Structures,4,75
+1022,Shreya Rao,Female,20,AIDS,4,A,2024,SUB104,Statistics,3,43
+1022,Shreya Rao,Female,20,AIDS,4,A,2024,SUB105,Operating Systems,4,39
+1023,Manav Bansal,Male,20,AIML,4,B,2024,SUB101,Python Programming,4,60
+1023,Manav Bansal,Male,20,AIML,4,B,2024,SUB102,Database Management Systems,4,49
+1023,Manav Bansal,Male,20,AIML,4,B,2024,SUB103,Data Structures,4,79
+1023,Manav Bansal,Male,20,AIML,4,B,2024,SUB104,Statistics,3,66
+1023,Manav Bansal,Male,20,AIML,4,B,2024,SUB105,Operating Systems,4,79
+1024,Aditi Sharma,Female,19,ECE,4,A,2024,SUB101,Python Programming,4,83
+1024,Aditi Sharma,Female,19,ECE,4,A,2024,SUB102,Database Management Systems,4,81
+1024,Aditi Sharma,Female,19,ECE,4,A,2024,SUB103,Data Structures,4,49
+1024,Aditi Sharma,Female,19,ECE,4,A,2024,SUB104,Statistics,3,42
+1024,Aditi Sharma,Female,19,ECE,4,A,2024,SUB105,Operating Systems,4,53
+1025,Rishi Gupta,Male,20,IT,4,B,2024,SUB101,Python Programming,4,56
+1025,Rishi Gupta,Male,20,IT,4,B,2024,SUB102,Database Management Systems,4,62
+1025,Rishi Gupta,Male,20,IT,4,B,2024,SUB103,Data Structures,4,94
+1025,Rishi Gupta,Male,20,IT,4,B,2024,SUB104,Statistics,3,97
+1025,Rishi Gupta,Male,20,IT,4,B,2024,SUB105,Operating Systems,4,52
+1026,Sanya Kapoor,Female,20,CSE,4,A,2024,SUB101,Python Programming,4,60
+1026,Sanya Kapoor,Female,20,CSE,4,A,2024,SUB102,Database Management Systems,4,56
+1026,Sanya Kapoor,Female,20,CSE,4,A,2024,SUB103,Data Structures,4,43
+1026,Sanya Kapoor,Female,20,CSE,4,A,2024,SUB104,Statistics,3,87
+1026,Sanya Kapoor,Female,20,CSE,4,A,2024,SUB105,Operating Systems,4,48
+1027,Dev Patel,Male,21,AIDS,4,B,2024,SUB101,Python Programming,4,55
+1027,Dev Patel,Male,21,AIDS,4,B,2024,SUB102,Database Management Systems,4,57
+1027,Dev Patel,Male,21,AIDS,4,B,2024,SUB103,Data Structures,4,56
+1027,Dev Patel,Male,21,AIDS,4,B,2024,SUB104,Statistics,3,85
+1027,Dev Patel,Male,21,AIDS,4,B,2024,SUB105,Operating Systems,4,37
+1028,Nandini Iyer,Female,20,AIML,4,A,2024,SUB101,Python Programming,4,47
+1028,Nandini Iyer,Female,20,AIML,4,A,2024,SUB102,Database Management Systems,4,60
+1028,Nandini Iyer,Female,20,AIML,4,A,2024,SUB103,Data Structures,4,90
+1028,Nandini Iyer,Female,20,AIML,4,A,2024,SUB104,Statistics,3,88
+1028,Nandini Iyer,Female,20,AIML,4,A,2024,SUB105,Operating Systems,4,50
+1029,Krishna Rao,Male,20,ECE,4,B,2024,SUB101,Python Programming,4,60
+1029,Krishna Rao,Male,20,ECE,4,B,2024,SUB102,Database Management Systems,4,77
+1029,Krishna Rao,Male,20,ECE,4,B,2024,SUB103,Data Structures,4,93
+1029,Krishna Rao,Male,20,ECE,4,B,2024,SUB104,Statistics,3,69
+1029,Krishna Rao,Male,20,ECE,4,B,2024,SUB105,Operating Systems,4,79
+1030,Anjali Nair,Female,19,IT,4,A,2024,SUB101,Python Programming,4,54
+1030,Anjali Nair,Female,19,IT,4,A,2024,SUB102,Database Management Systems,4,40
+1030,Anjali Nair,Female,19,IT,4,A,2024,SUB103,Data Structures,4,97
+1030,Anjali Nair,Female,19,IT,4,A,2024,SUB104,Statistics,3,63
+1030,Anjali Nair,Female,19,IT,4,A,2024,SUB105,Operating Systems,4,48
+1031,Varun Singh,Male,20,CSE,4,B,2024,SUB101,Python Programming,4,71
+1031,Varun Singh,Male,20,CSE,4,B,2024,SUB102,Database Management Systems,4,71
+1031,Varun Singh,Male,20,CSE,4,B,2024,SUB103,Data Structures,4,46
+1031,Varun Singh,Male,20,CSE,4,B,2024,SUB104,Statistics,3,81
+1031,Varun Singh,Male,20,CSE,4,B,2024,SUB105,Operating Systems,4,79
+1032,Riya Gupta,Female,20,AIDS,4,A,2024,SUB101,Python Programming,4,81
+1032,Riya Gupta,Female,20,AIDS,4,A,2024,SUB102,Database Management Systems,4,84
+1032,Riya Gupta,Female,20,AIDS,4,A,2024,SUB103,Data Structures,4,80
+1032,Riya Gupta,Female,20,AIDS,4,A,2024,SUB104,Statistics,3,35
+1032,Riya Gupta,Female,20,AIDS,4,A,2024,SUB105,Operating Systems,4,98
+1033,Abhishek Jain,Male,21,AIML,4,B,2024,SUB101,Python Programming,4,58
+1033,Abhishek Jain,Male,21,AIML,4,B,2024,SUB102,Database Management Systems,4,38
+1033,Abhishek Jain,Male,21,AIML,4,B,2024,SUB103,Data Structures,4,53
+1033,Abhishek Jain,Male,21,AIML,4,B,2024,SUB104,Statistics,3,82
+1033,Abhishek Jain,Male,21,AIML,4,B,2024,SUB105,Operating Systems,4,69
+1034,Simran Kaur,Female,20,ECE,4,A,2024,SUB101,Python Programming,4,85
+1034,Simran Kaur,Female,20,ECE,4,A,2024,SUB102,Database Management Systems,4,72
+1034,Simran Kaur,Female,20,ECE,4,A,2024,SUB103,Data Structures,4,80
+1034,Simran Kaur,Female,20,ECE,4,A,2024,SUB104,Statistics,3,75
+1034,Simran Kaur,Female,20,ECE,4,A,2024,SUB105,Operating Systems,4,84
+1035,Aman Yadav,Male,20,IT,4,B,2024,SUB101,Python Programming,4,53
+1035,Aman Yadav,Male,20,IT,4,B,2024,SUB102,Database Management Systems,4,92
+1035,Aman Yadav,Male,20,IT,4,B,2024,SUB103,Data Structures,4,61
+1035,Aman Yadav,Male,20,IT,4,B,2024,SUB104,Statistics,3,76
+1035,Aman Yadav,Male,20,IT,4,B,2024,SUB105,Operating Systems,4,74
+1036,Anusha Reddy,Female,19,CSE,4,A,2024,SUB101,Python Programming,4,53
+1036,Anusha Reddy,Female,19,CSE,4,A,2024,SUB102,Database Management Systems,4,35
+1036,Anusha Reddy,Female,19,CSE,4,A,2024,SUB103,Data Structures,4,38
+1036,Anusha Reddy,Female,19,CSE,4,A,2024,SUB104,Statistics,3,38
+1036,Anusha Reddy,Female,19,CSE,4,A,2024,SUB105,Operating Systems,4,53
+1037,Rohit Sharma,Male,20,AIDS,4,B,2024,SUB101,Python Programming,4,91
+1037,Rohit Sharma,Male,20,AIDS,4,B,2024,SUB102,Database Management Systems,4,84
+1037,Rohit Sharma,Male,20,AIDS,4,B,2024,SUB103,Data Structures,4,86
+1037,Rohit Sharma,Male,20,AIDS,4,B,2024,SUB104,Statistics,3,98
+1037,Rohit Sharma,Male,20,AIDS,4,B,2024,SUB105,Operating Systems,4,70
+1038,Keerthana S,Female,20,AIML,4,A,2024,SUB101,Python Programming,4,36
+1038,Keerthana S,Female,20,AIML,4,A,2024,SUB102,Database Management Systems,4,68
+1038,Keerthana S,Female,20,AIML,4,A,2024,SUB103,Data Structures,4,67
+1038,Keerthana S,Female,20,AIML,4,A,2024,SUB104,Statistics,3,89
+1038,Keerthana S,Female,20,AIML,4,A,2024,SUB105,Operating Systems,4,91
+1039,Siddharth Rao,Male,21,ECE,4,B,2024,SUB101,Python Programming,4,85
+1039,Siddharth Rao,Male,21,ECE,4,B,2024,SUB102,Database Management Systems,4,54
+1039,Siddharth Rao,Male,21,ECE,4,B,2024,SUB103,Data Structures,4,92
+1039,Siddharth Rao,Male,21,ECE,4,B,2024,SUB104,Statistics,3,51
+1039,Siddharth Rao,Male,21,ECE,4,B,2024,SUB105,Operating Systems,4,77
+1040,Pallavi Singh,Female,20,IT,4,A,2024,SUB101,Python Programming,4,43
+1040,Pallavi Singh,Female,20,IT,4,A,2024,SUB102,Database Management Systems,4,53
+1040,Pallavi Singh,Female,20,IT,4,A,2024,SUB103,Data Structures,4,49
+1040,Pallavi Singh,Female,20,IT,4,A,2024,SUB104,Statistics,3,64
+1040,Pallavi Singh,Female,20,IT,4,A,2024,SUB105,Operating Systems,4,40
+1041,Gaurav Mehta,Male,20,CSE,4,B,2024,SUB101,Python Programming,4,70
+1041,Gaurav Mehta,Male,20,CSE,4,B,2024,SUB102,Database Management Systems,4,78
+1041,Gaurav Mehta,Male,20,CSE,4,B,2024,SUB103,Data Structures,4,36
+1041,Gaurav Mehta,Male,20,CSE,4,B,2024,SUB104,Statistics,3,55
+1041,Gaurav Mehta,Male,20,CSE,4,B,2024,SUB105,Operating Systems,4,84
+1042,Harini N,Female,19,AIDS,4,A,2024,SUB101,Python Programming,4,89
+1042,Harini N,Female,19,AIDS,4,A,2024,SUB102,Database Management Systems,4,36
+1042,Harini N,Female,19,AIDS,4,A,2024,SUB103,Data Structures,4,48
+1042,Harini N,Female,19,AIDS,4,A,2024,SUB104,Statistics,3,78
+1042,Harini N,Female,19,AIDS,4,A,2024,SUB105,Operating Systems,4,38
+1043,Tarun Kumar,Male,20,AIML,4,B,2024,SUB101,Python Programming,4,53
+1043,Tarun Kumar,Male,20,AIML,4,B,2024,SUB102,Database Management Systems,4,45
+1043,Tarun Kumar,Male,20,AIML,4,B,2024,SUB103,Data Structures,4,74
+1043,Tarun Kumar,Male,20,AIML,4,B,2024,SUB104,Statistics,3,72
+1043,Tarun Kumar,Male,20,AIML,4,B,2024,SUB105,Operating Systems,4,68
+1044,Lakshmi Devi,Female,20,ECE,4,A,2024,SUB101,Python Programming,4,92
+1044,Lakshmi Devi,Female,20,ECE,4,A,2024,SUB102,Database Management Systems,4,59
+1044,Lakshmi Devi,Female,20,ECE,4,A,2024,SUB103,Data Structures,4,35
+1044,Lakshmi Devi,Female,20,ECE,4,A,2024,SUB104,Statistics,3,89
+1044,Lakshmi Devi,Female,20,ECE,4,A,2024,SUB105,Operating Systems,4,89
+1045,Sachin Patel,Male,21,IT,4,B,2024,SUB101,Python Programming,4,63
+1045,Sachin Patel,Male,21,IT,4,B,2024,SUB102,Database Management Systems,4,86
+1045,Sachin Patel,Male,21,IT,4,B,2024,SUB103,Data Structures,4,35
+1045,Sachin Patel,Male,21,IT,4,B,2024,SUB104,Statistics,3,79
+1045,Sachin Patel,Male,21,IT,4,B,2024,SUB105,Operating Systems,4,59
+1046,Vaishnavi R,Female,20,CSE,4,A,2024,SUB101,Python Programming,4,93
+1046,Vaishnavi R,Female,20,CSE,4,A,2024,SUB102,Database Management Systems,4,43
+1046,Vaishnavi R,Female,20,CSE,4,A,2024,SUB103,Data Structures,4,50
+1046,Vaishnavi R,Female,20,CSE,4,A,2024,SUB104,Statistics,3,70
+1046,Vaishnavi R,Female,20,CSE,4,A,2024,SUB105,Operating Systems,4,94
+1047,Naveen Reddy,Male,20,AIDS,4,B,2024,SUB101,Python Programming,4,50
+1047,Naveen Reddy,Male,20,AIDS,4,B,2024,SUB102,Database Management Systems,4,41
+1047,Naveen Reddy,Male,20,AIDS,4,B,2024,SUB103,Data Structures,4,84
+1047,Naveen Reddy,Male,20,AIDS,4,B,2024,SUB104,Statistics,3,67
+1047,Naveen Reddy,Male,20,AIDS,4,B,2024,SUB105,Operating Systems,4,96
+1048,Deepika S,Female,19,AIML,4,A,2024,SUB101,Python Programming,4,72
+1048,Deepika S,Female,19,AIML,4,A,2024,SUB102,Database Management Systems,4,87
+1048,Deepika S,Female,19,AIML,4,A,2024,SUB103,Data Structures,4,64
+1048,Deepika S,Female,19,AIML,4,A,2024,SUB104,Statistics,3,98
+1048,Deepika S,Female,19,AIML,4,A,2024,SUB105,Operating Systems,4,41
+1049,Pranav Gupta,Male,20,ECE,4,B,2024,SUB101,Python Programming,4,94
+1049,Pranav Gupta,Male,20,ECE,4,B,2024,SUB102,Database Management Systems,4,93
+1049,Pranav Gupta,Male,20,ECE,4,B,2024,SUB103,Data Structures,4,86
+1049,Pranav Gupta,Male,20,ECE,4,B,2024,SUB104,Statistics,3,69
+1049,Pranav Gupta,Male,20,ECE,4,B,2024,SUB105,Operating Systems,4,89
+1050,Aishwarya Rao,Female,20,IT,4,A,2024,SUB101,Python Programming,4,41
+1050,Aishwarya Rao,Female,20,IT,4,A,2024,SUB102,Database Management Systems,4,68
+1050,Aishwarya Rao,Female,20,IT,4,A,2024,SUB103,Data Structures,4,65
+1050,Aishwarya Rao,Female,20,IT,4,A,2024,SUB104,Statistics,3,95
+1050,Aishwarya Rao,Female,20,IT,4,A,2024,SUB105,Operating Systems,4,89
