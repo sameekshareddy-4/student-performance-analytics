@@ -1,4 +1,10 @@
 __pycache__/
 *.pyc
+
 .vscode/
+
 .env
+
+*.pbix
+
+Thumbs.db

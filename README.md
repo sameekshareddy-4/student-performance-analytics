@@ -1,34 +1,82 @@
-# 🎓 Student Performance Analytics System
+# Student Performance Analytics
 
-## 📌 Overview
+## Overview
 
-An end-to-end Data Analytics project built using:
+Student Performance Analytics is an end-to-end data analytics project built using MySQL, Python, Pandas, Matplotlib, and Power BI.
 
-- Python
+The project stores student academic records in MySQL, performs data analysis using Python, and visualizes insights through an interactive Power BI dashboard.
+
+---
+
+## Tech Stack
+
 - MySQL
+- SQL
+- Python
+- Pandas
+- Matplotlib
 - Power BI
 
-## 🚀 Features
+---
 
-- Student performance tracking
+## Project Workflow
+
+CSV Files
+
+↓
+
+MySQL Database
+
+↓
+
+Python (Pandas)
+
+↓
+
+Exploratory Data Analysis
+
+↓
+
+Power BI Dashboard
+
+---
+
+## Features
+
+- Student database management
+- SQL joins
+- Data cleaning using Pandas
+- Exploratory Data Analysis
+- Branch-wise analysis
 - Subject-wise analysis
-- Branch comparison
-- Interactive dashboard
-- SQL-based reporting
+- Top performers
+- Gender distribution
+- Interactive Power BI dashboard
 
-## 🛠 Tech Stack
+---
 
-- Python
-- MySQL
-- Power BI
-- Git & GitHub
+## Dashboard Preview
 
-## 📂 Project Structure
+![Dashboard](docs/dashboard.png)
 
-data/
-sql/
-python/
-dashboard/
-docs/
+---
 
-🚧 Project under development.
+## Project Structure
+
+student-performance-analytics
+
+- data/
+- python/
+- sql/
+- docs/
+- README.md
+
+---
+
+## Future Improvements
+
+- Larger dataset
+- Attendance analytics
+- Grade prediction
+- Advanced SQL queries
+- DAX measures
