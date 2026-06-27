@@ -2,62 +2,48 @@ import pandas as pd
 
 df = pd.read_csv("data/final_dataset.csv")
 
-print(df.head())
+print("="*50)
+print("Student Performance Analysis")
+print("="*50)
 
-branch_avg = df.groupby("branch")["marks"].mean()
+print("\nDataset Shape")
+print(df.shape)
 
-print(branch_avg)
+print("\nColumns")
+print(df.columns)
 
-subject_avg = df.groupby("subject_name")["marks"].mean()
+print("\nData Types")
+print(df.dtypes)
 
-print(subject_avg)
+print("\nMissing Values")
+print(df.isnull().sum())
 
-top_students = df.sort_values(
-    "marks",
-    ascending=False
-)
+print("\nStatistical Summary")
+print(df.describe())
 
-print(top_students.head(10))
+print("\nHighest Marks")
+print(df["marks"].max())
 
-lowest = df.sort_values(
-    "marks"
-)
+print("\nLowest Marks")
+print(df["marks"].min())
 
-print(lowest.head(10))
+print("\nAverage Marks")
+print(df["marks"].mean())
 
-print(df[df["marks"]>=90])
-
-print(df[df["marks"]<40])
-
-passed = df[df["marks"]>=40]
-
-pass_percentage = (len(passed)/len(df))*100
-
-print(pass_percentage)
-
-distinction = df[df["marks"]>=75]
-
-percentage = (len(distinction)/len(df))*100
-
-print(percentage)
-
+print("\nTop 10 Students")
 print(
-df.groupby(
-["branch","subject_name"]
-)["marks"].mean()
+    df.groupby("student_name")["marks"]
+      .mean()
+      .sort_values(ascending=False)
+      .head(10)
 )
 
-best = df.loc[df["marks"].idxmax()]
-
-print(best)
-
-cse = df[df["branch"]=="CSE"]
-
+print("\nAverage Marks by Branch")
 print(
-cse.groupby("subject_name")["marks"].mean()
+    df.groupby("branch")["marks"].mean()
 )
 
+print("\nAverage Marks by Subject")
 print(
-df.groupby("branch")["student_name"].count()
+    df.groupby("subject_name")["marks"].mean()
 )
-
