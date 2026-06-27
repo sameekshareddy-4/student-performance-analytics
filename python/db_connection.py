@@ -1,4 +1,5 @@
 import mysql.connector
+import pandas as pd
 
 connection = mysql.connector.connect(
     host="localhost",
@@ -8,3 +9,17 @@ connection = mysql.connector.connect(
 )
 
 print("Connected Successfully!")
+
+query = "SELECT * FROM Students"
+
+df = pd.read_sql(query, connection)
+
+print(df)
+
+connection.close()
+print(df.head())
+print(df.tail())
+print(df.columns)
+print(df.shape)
+print(df.info())
+print(df.describe())
