@@ -132,7 +132,7 @@ The dashboard includes:
 
 ## Power BI Dashboard
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/Dashboard.png)
 
 ---
 
